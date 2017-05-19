@@ -53,7 +53,7 @@ frontend (user interface) web development.
 
   Event streams are not first-class entities, so there is no way to form
   abstractions around them. They can't be composed with each other. They can't
-  be locally referenced. This forces even more shared state upton the system.
+  be locally referenced. This forces even more shared state upon the system.
 
   **Goal:** Push-based event system, first-class event streams, and composable
   event handlers.
